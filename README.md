@@ -9,7 +9,7 @@ Comecei a me interessar por tecnologia desde muito novo (por conta dos videogame
 *   🌍  I'm based in Quatis, RJ - Brasil
 *   ✉️  You can contact me at [diegomcosta@outlook.com.br](mailto:diegomcosta@outlook.com.br)
 *   🧠  I'm learning HTML - CSS - Javascript - Python - Git/Github
-*   ⚡  Sou apaixonado por História e documentários, além de gamer, leitor e músico nas horas vagas### Skills 
+*   ⚡  Sou apaixonado por História e documentários, além de gamer, leitor e músico nas horas vagas
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
